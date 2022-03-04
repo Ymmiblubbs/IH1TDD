@@ -10,5 +10,5 @@ def test_divisble_by_5():
     
 def test_divisible_by_3():
     assert FizzBuzz(3) == "Fizz"
-    assert FizzBuzz(6) == "Fizz"
+    assert FizzBuzz(9) == "Fizz"
     
